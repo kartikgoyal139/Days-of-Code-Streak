@@ -1,0 +1,40 @@
+body{
+    background-color: #e04b55 ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+
+     
+}
+.digit{
+    font-size: 120px;
+
+}
+.txt{
+    font-size: 30px;
+}
+#button-container{
+    text-align: center;
+    margin-top: 50px;
+}
+.btn{
+    padding: 8px 20px;
+    font-size: 25px;
+    margin: 0px 10px;
+    color: black;
+    border: 0px;
+    cursor: pointer;
+}
+#start{
+    background-color: #b50a93;
+
+}
+#stop{
+    background-color: #aa5110;
+
+}
+#reset{
+    background-color: #ad9a0a;
+
+}
